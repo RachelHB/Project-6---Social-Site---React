@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project-6---Social-Site---React/static/css/main.49c2d70b.css",
+    "main.js": "/Project-6---Social-Site---React/static/js/main.34a1c309.js",
+    "static/js/787.014f8b23.chunk.js": "/Project-6---Social-Site---React/static/js/787.014f8b23.chunk.js",
+    "static/media/Love Face1.png": "/Project-6---Social-Site---React/static/media/Love Face1.7189f9d0b2ec77051fa4.png",
+    "static/media/Smily Face1.png": "/Project-6---Social-Site---React/static/media/Smily Face1.16a01ee179d75bb0134b.png",
+    "static/media/Angry Face1.png": "/Project-6---Social-Site---React/static/media/Angry Face1.79ba87d6b7a79fc73694.png",
+    "index.html": "/Project-6---Social-Site---React/index.html",
+    "main.49c2d70b.css.map": "/Project-6---Social-Site---React/static/css/main.49c2d70b.css.map",
+    "main.34a1c309.js.map": "/Project-6---Social-Site---React/static/js/main.34a1c309.js.map",
+    "787.014f8b23.chunk.js.map": "/Project-6---Social-Site---React/static/js/787.014f8b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c2d70b.css",
+    "static/js/main.34a1c309.js"
+  ]
+}
